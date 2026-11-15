@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# output latihan
+data.json
+pengeluaran.json
+
+# editor & OS
+.DS_Store
+.idea/
+*.swp
